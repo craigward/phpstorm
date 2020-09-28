@@ -17,6 +17,9 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="ShowReformatFileDialog">
