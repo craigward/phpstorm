@@ -16,6 +16,8 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NewScratchBuffer">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
