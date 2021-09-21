@@ -4,7 +4,7 @@
     <property name="created">2021-07-09T14:34:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-07-09T14:37:20</property>
+    <property name="modified">2021-09-21T09:30:17</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -78,7 +78,7 @@
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="666b87" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="44475a" />
     <option name="LINE_NUMBERS_COLOR" value="666879" />
-    <option name="METHOD_SEPARATORS_COLOR" value="424450" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="80ffea" />
     <option name="MODIFIED_TAB_ICON" value="ff79c5" />
     <option name="MT_FILESTATUS_ADDED" value="8aff80" />
