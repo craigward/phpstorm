@@ -4,16 +4,17 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="595332ee-7e2e-43b7-a753-5ee75cc25e8a" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.13/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="5d2213f6-89d4-4d87-8307-fca44270ff5c" name="PHP81" home="/usr/local/Cellar/php/8.1.1/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.13/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.13/bin/php" path_separator=":" version="7.4.13">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
+      <interpreter name="PHP81">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.1/bin/php" path_separator=":" version="8.1.1">
+          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/error_log.ini, /usr/local/etc/php/8.1/conf.d/ext-opcache.ini, /usr/local/etc/php/8.1/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.13/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.1/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -60,7 +61,6 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
@@ -78,7 +78,6 @@
             <extension name="tokenizer" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
